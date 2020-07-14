@@ -16,6 +16,8 @@ The packaged was then extended with new-low level C functions allowing for fast 
 
 In particular, to implement the proposed algorithm [the *ransampl* C library](https://jugit.fz-juelich.de/mlz/ransampl) was used to randomly generate numbers from a specific discrete distribution. I also included the library here with the appropriate license statements.
 
+A (small) dataset based on Congo DR census data is also included as it was used in a demonstration as part of the thesis work.
+
 ## LICENSE DISCLAIMER
 
 The MIT License ONLY applies TO MY CODE in the root folder of the project. For the rest of the libraries please refer to the individual licenses in each of their folders.
