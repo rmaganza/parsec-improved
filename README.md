@@ -1,6 +1,6 @@
 # Implementation of Algorithms for the Measure of Inequality on Partially ordered data
 
-This repository contains the practical work behindd my very theoretical Bachelor thesis.
+This repository contains the practical work behind my very theoretical Bachelor thesis.
 
 ## Goals 🎯
 
