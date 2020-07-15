@@ -1,1 +1,0 @@
-FOD <- FFOD <-  function(profiles, ...) UseMethod("FOD")

@@ -1,1 +1,0 @@
-equivalences <- function(x) UseMethod("equivalences")

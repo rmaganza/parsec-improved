@@ -11,7 +11,7 @@ Refer to [the thesis](https://github.com/rmaganza/parsec-improved/blob/master/th
 
 ## Tools 🛠
 
-The work started from [the *parsec* R package](https://cran.r-project.org/web/packages/parsec/index.html) which I shamelessly bumped in the *parsec_source* directory. (I'm sure my advisor won't mind).
+The work started from [the *parsec* R package](https://cran.r-project.org/web/packages/parsec/index.html).
 The packaged was then extended with new-low level C functions allowing for fast generation of linear extensions and computing of inequality measures, and a couple of new R functions to interface the C level.
 
 In particular, to implement the proposed algorithm [the *ransampl* C library](https://jugit.fz-juelich.de/mlz/ransampl) was used to randomly generate numbers from a specific discrete distribution. I also included the library here with the appropriate license statements.
